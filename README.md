@@ -1,4 +1,4 @@
-###  <img width="500" height="..." src="https://glitch-art.vercel.app/api/simple?word=Hi%20I'm%20YaoYaoYao&font=Doto&padding=10" /> 👋
+###  <img width="300" height="..." src="https://glitch-art.vercel.app/api/simple?word=Hi%20I'm%20YaoYaoYao&font=Doto" /> 👋
 📸 I'm interested in Photography. If you wanna see some landscape photos, please follow my Little Red Book(🍠4872558686)
 
 📖 My research direction is distributed optimization, and focus on constructing an agent system to design distributed optimization algorithms curently. Welcome to communicate with me.
